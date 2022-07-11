@@ -12,3 +12,8 @@ The website is fully Responsive and all the design part has been done using boot
 
 ## Images 
 ![](src/image/1.png)
+
+## Mobile View
+![](src/image/2.png) 
+##
+![](src/image/3.png)
