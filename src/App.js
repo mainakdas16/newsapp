@@ -17,6 +17,9 @@ export default class App extends Component {
 					<hr style={{marginTop : "0rem"}}/>
 
 					<Switch>
+						<Route exact path="/">
+							<News key = "general" pageSize = {15} category = "general" country = "in" />
+						</Route>
 						<Route exact path="/general">
 							<News key = "general" pageSize = {15} category = "general" country = "in" />
 						</Route>
