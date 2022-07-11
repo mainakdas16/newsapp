@@ -11,4 +11,4 @@ This is a Multipage Application created using the React Router Dom, with which w
 The website is fully Responsive and all the design part has been done using bootstrap.
 
 ## Images 
-![](src/image/Untitled.png)
+![](src/image/1.png)
